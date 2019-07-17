@@ -166,7 +166,7 @@ class MyTaskItem extends StatelessWidget {
 }
 ```
 
-- [alt text](provider_demo.gif)
+- ![alt text](provider_demo.gif)
 
 A few resources to get you started if this is your first Flutter project:
 
